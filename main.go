@@ -54,6 +54,7 @@ func main() {
 	}
 
 	// major, minor, latest patch
+	// sourced from https://kubernetes.io/releases/patch-releases
 	versions := [][]int{
 		{1, 5, 8},
 		{1, 6, 13},
