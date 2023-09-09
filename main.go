@@ -25,7 +25,7 @@ import (
 )
 
 var out = "apis/kubernetes.io"
-var source = "import-kubernetes"
+var source = "import-kubernetes-apis"
 
 func main() {
 
